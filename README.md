@@ -1,29 +1,28 @@
-````
 # 📝 ToDo List Web App
 
-A simple and responsive **ToDo List Application** built using **HTML, CSS, and JavaScript**.  
+A simple and responsive **ToDo List Application** built using **HTML, CSS, and JavaScript**.
 This project allows users to add, edit, delete, and save tasks using **Local Storage** so tasks remain even after refreshing the page.
 
 ---
 
 ## 🚀 Features
 
-✅ Add New Tasks  
-✅ Edit Existing Tasks  
-✅ Delete Tasks  
-✅ Save Tasks in Local Storage  
-✅ Data Persists After Refresh  
-✅ Responsive & Modern UI  
-✅ Add Task Using Enter Key  
+✅ Add New Tasks
+✅ Edit Existing Tasks
+✅ Delete Tasks
+✅ Save Tasks in Local Storage
+✅ Data Persists After Refresh
+✅ Responsive & Modern UI
+✅ Add Task Using Enter Key
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (DOM Manipulation)
-- Local Storage API
+* HTML5
+* CSS3
+* JavaScript (DOM Manipulation)
+* Local Storage API
 
 ---
 
@@ -34,7 +33,7 @@ This project allows users to add, edit, delete, and save tasks using **Local Sto
 │── index.html
 │── style.css
 │── script.js
-````
+```
 
 ---
 
@@ -99,7 +98,7 @@ Add your live project link here after deployment.
 
 Example:
 
-```md
+```text
 https://your-project-link.netlify.app
 ```
 
@@ -114,6 +113,3 @@ https://your-project-link.netlify.app
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and share your feedback!
-
-```
-```
