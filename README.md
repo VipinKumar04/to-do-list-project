@@ -96,10 +96,8 @@ This project allows users to add, edit, delete, and save tasks using **Local Sto
 
 Add your live project link here after deployment.
 
-Example:
-
 ```text
-https://your-project-link.netlify.app
+https://vipinkumar04.github.io/to-do-list-project/
 ```
 
 ---
