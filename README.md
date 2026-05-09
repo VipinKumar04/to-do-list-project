@@ -94,8 +94,6 @@ This project allows users to add, edit, delete, and save tasks using **Local Sto
 
 ## 🔗 Live Demo
 
-Add your live project link here after deployment.
-
 ```text
 https://vipinkumar04.github.io/to-do-list-project/
 ```
