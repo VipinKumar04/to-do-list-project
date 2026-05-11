@@ -8,11 +8,17 @@ This project allows users to add, edit, delete, and save tasks using **Local Sto
 ## 🚀 Features
 
 ✅ Add New Tasks
+
 ✅ Edit Existing Tasks
+
 ✅ Delete Tasks
+
 ✅ Save Tasks in Local Storage
+
 ✅ Data Persists After Refresh
+
 ✅ Responsive & Modern UI
+
 ✅ Add Task Using Enter Key
 
 ---
